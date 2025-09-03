@@ -2,7 +2,7 @@
 I'm a Full-Stack Developer using C#, JS, HTML to build Web Application with .NET Core framework.
 I'm graduated in Computer Science. During my studies, I learned different programming leanguages such as Java, Python, C.
   
-- I’m currently learning Python and Angular framework 
+- I’m currently developing in Python and working as a full-stack developer  
 - ⚡ I like sports, music and travelling around the world!
   
 <!---
