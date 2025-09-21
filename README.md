@@ -3,7 +3,7 @@ I'm a Full-Stack Developer using C#, JS, HTML to build Web Application with .NET
 I'm graduated in Computer Science. During my studies, I learned different programming leanguages such as Java, Python, C.
   
 - I’m currently developing in Python and working as a full-stack developer  
-- ⚡ I like sports, in particular Formula 1 and soccer and also I like to play football in my spare time. I love travelling around the world!
+- ⚡ I like sports, in particular Formula 1 and soccer and also I like to play soccer in my spare time. I love travelling around the world!
 
 
   
